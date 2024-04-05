@@ -106,6 +106,55 @@ Enter the numerator: 20
 Enter the denominator: 0
 Error: Division by zero is not allowed.
 
+OUTPUT:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exponentiation
+6. Quit
+3
+Enter first number:
+5
+Enter second number:
+4
+Result: 20.0
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exponentiation
+6. Quit
+4
+Enter first number:
+10
+Enter second number:
+2
+Result: 5.0
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exponentiation
+6. Quit
+5
+Enter first number:
+2
+Enter second number:
+3
+Result: 8.0
+Choose an operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exponentiation
+6. Quit
+6
+Exiting the calculator.
+
 
 ## Conclusion
 The Java calculator program provides a user-friendly interface for performing basic and advanced mathematical operations. It demonstrates 
